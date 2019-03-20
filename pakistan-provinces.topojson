@@ -9395,7 +9395,7 @@
             "NAME_0": "Pakistan",
             "ID_1": 2151,
             "NAME_1": "Federally Administered Tribal Areas",
-            "VARNAME_1": "Fata",
+            "VARNAME_1": "Fata|F.A.T.A|Federally Administered Tribal Areas|FCT",
             "HASC_1": "PK.TA",
             "TYPE_1": "Territory",
             "ENGTYPE_1": "Territory"
