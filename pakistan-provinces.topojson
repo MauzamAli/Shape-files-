@@ -9413,8 +9413,8 @@
             "ISO": "PAK",
             "NAME_0": "Pakistan",
             "ID_1": 2152,
-            "NAME_1": "Islamabad",
-            "VARNAME_1": "Islamabad|Federal Capital Territory|Federal Capital Territory Islamabad|Territoire de la Capitale fédérale",
+            "NAME_1": "Islamabad Capital Territory",
+            "VARNAME_1": "Islamabad|Islamabad Capital Territory|Federal Capital Territory Islamabad|Territoire de la Capitale fédérale",
             "HASC_1": "PK.IS",
             "TYPE_1": "Capital Territory",
             "ENGTYPE_1": "Capital Territory"
@@ -9437,8 +9437,8 @@
             "ISO": "PAK",
             "NAME_0": "Pakistan",
             "ID_1": 2153,
-            "NAME_1": "Khyber Pakhutunkhwa",
-            "VARNAME_1": "Khyber Pakhutunkhwa",
+            "NAME_1": "Khyber Pakhtunkhwa",
+            "VARNAME_1": "Khyber Pakhtunkhwa",
             "HASC_1": "PK.NP",
             "TYPE_1": "Province",
             "ENGTYPE_1": "Province"
